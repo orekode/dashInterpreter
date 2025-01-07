@@ -1,8 +1,4 @@
-Here's a concise and informative `README.md` template for your repository:  
-
----
-
-# Lox Interpreter  
+# Lox Interpreter🚀 
 
 A simple implementation of a Lox interpreter, inspired by the [*Crafting Interpreters*](https://craftinginterpreters.com/) book by Robert Nystrom.  
 
@@ -143,5 +139,4 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
 
 ---  
-
-Let me know if you need further adjustments! 🚀  
+ 
